@@ -27,6 +27,7 @@ main {
 .name {
   position: absolute;
   background-color: #ff9a4b;
+  color: white;
 }
 .box {
   margin: 10px;
@@ -36,7 +37,7 @@ main {
   height: 150px;
   margin: 0 0 10px 0;
   background-size: cover;
-  background-position: center;
+  background-position: bottom;
 }
 .img1 {
   background-image: url(img/flow01.png);
